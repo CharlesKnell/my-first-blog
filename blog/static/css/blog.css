@@ -36,7 +36,7 @@ h4 {
 }
 
 .date {
-    color: #828282;
+    color: #000000;
 }
 
 .save {
@@ -85,4 +85,8 @@ h4 {
 .btn-secondary:hover {
     color: #FFFFFF;
     background-color: #C25100;
+}
+
+.block1 {
+    width: 700px;
 }
